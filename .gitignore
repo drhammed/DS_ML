@@ -2,5 +2,7 @@
 .DS_Store
 
 # Secret keys
-.secret.toml
+.secrets.toml
 
+
+.streamlit/secrets.toml
